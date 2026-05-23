@@ -31,6 +31,7 @@ title: "Courses"
 
 ## In Development
 
+* [Robot Explorers]](https://curriculum.jointheleague.org/Robot-Explorers/)
 * [Microbit Robot Rally](https://league-curriculum.github.io/Microbit-Robot-Rally/)
   Multiplayer competitive games with Micro:bit-based robots.
 * [OrbitLab](https://github.com/league-curriculum/Python-OrbitLab)
@@ -38,6 +39,3 @@ title: "Courses"
 * [Arcade Games](https://league-curriculum.github.io/Arcade-Games/)
   Build retro-style arcade games with [MakeCode Arcade](https://arcade.makecode.com).
 
----
-
-Development of The LEAGUE's curriculum is generously funded by the Itzkowitz Family Foundation.
